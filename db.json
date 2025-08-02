@@ -1,0 +1,866 @@
+{
+  "users": [
+    {
+      "id": 3223,
+      "name": "Michael"
+    },
+    {
+      "id": 4353,
+      "name": "Xoshim"
+    },
+    {
+      "id": 2233,
+      "name": "Pidor"
+    }
+  ],
+  "tests": [
+    {
+      "id": 444,
+      "passage_one": {
+        "title": "How tennis rackets have changed",
+        "paragraphs": [
+          {
+            "letter": "",
+            "content": "In 2016, the British professional tennis player Andy Murray was ranked as the world’s number one. It was an incredible achievement by any standard – made even more remarkable by the fact that he did this during a period considered to be one of the strongest in the sport’s history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few. Yet five years previously, he had been regarded as a talented outsider who entered but never won the major tournaments."
+          },
+          {
+            "letter": "",
+            "content": "Of the changes that account for this transformation, one was visible and widely publicised: in 2011, Murray invited former number one player Ivan Lendl onto his coaching team – a valuable addition that had a visible impact on the player’s playing style. Another change was so subtle as to pass more or less unnoticed. Like many players, Murray has long preferred a racket that consists of two types of string: one for the mains (verticals) and another for the crosses (horizontals). While he continued to use natural string in the crosses, in 2012 he switched to a synthetic string for the mains. A small change, perhaps, but its importance should not be underestimated."
+          },
+          {
+            "letter": "",
+            "content": "The modification that Murray made is just one of a number of options available to players looking to tweak their rackets in order to improve their games. ‘Touring professionals have their rackets customised to their specific needs,’ says Colin Triplow, a UK-based professional racket stringer. ‘It’s a highly important part of performance maximisation.’ Consequently, the specific rackets used by the world’s elite are not actually readily available to the public; rather, each racket is individually made to suit the player who uses it. Take the US professional tennis players Mike and Bob Bryan, for example: ‘We’re very particular with our racket specifications,’ they say. ‘All our rackets are sent from our manufacturer to Tampa, Florida, where our frames go through a . . . thorough customisation process.’ They explain how they have adjusted not only racket length, but even experimented with different kinds of paint. The rackets they use now weigh more than the average model and also have a denser string pattern (i.e. more crosses and mains)."
+          },
+          {
+            "letter": "",
+            "content": "The primary reason for these modifications is simple: as the line between winning and losing becomes thinner and thinner, even these slight changes become more and more important. As a result, players and their teams are becoming increasingly creative with the modifications to their rackets as they look to maximise their competitive advantage."
+          },
+          {
+            "letter": "",
+            "content": "Racket modifications mainly date back to the 1970s, when the amateur German tennis player Werner Fischer started playing with the so-called spaghetti-strung racket. It created a string bed that generated so much topspin that it was quickly banned by the International Tennis Federation. However, within a decade or two, racket modification became a regularity. Today it is, in many ways, an aspect of the game that is equal in significance to nutrition or training."
+          },
+          {
+            "letter": "",
+            "content": "Modifications can be divided into two categories: those to the string bed and those to the racket frame. The former is far more common than the latter: the choice of the strings and the tension with which they are installed is something that nearly all professional players experiment with. They will continually change it depending on various factors including the court surface, climatic conditions, and game styles. Some will even change it depending on how they feel at the time."
+          },
+          {
+            "letter": "",
+            "content": "At one time, all tennis rackets were strung with natural gut made from the outer layer of sheep or cow intestines. This all changed in the early 1990s with the development of synthetic strings that were cheaper and more durable. They are made from three materials: nylon (relatively durable and affordable), Kevlar (too stiff to be used alone) or co-polyester (polyester combined with additives that enhance its performance). Even so, many professional players continue to use a ‘hybrid set-up’, where a combination of both synthetic and natural strings are used."
+          },
+          {
+            "letter": "",
+            "content": "Of the synthetics, co-polyester is by far the most widely used. It’s a perfect fit for the style of tennis now played, where players tend to battle it out from the back of the court rather than coming to the net. Studies indicate that the average spin from a co-polyester string is 25% greater than that from natural string or other synthetics. In a sense, the development of co-polyester strings has revolutionised the game."
+          },
+          {
+            "letter": "",
+            "content": "However, many players go beyond these basic adjustments to the strings and make changes to the racket frame itself. For example, much of the serving power of US professional player Pete Sampras was attributed to the addition of four to five lead weights onto his rackets, and today many professionals have the weight adjusted during the manufacturing process."
+          },
+          {
+            "letter": "",
+            "content": "Other changes to the frame involve the handle. Players have individual preferences for the shape of the handle and some will have the handle of one racket moulded onto the frame of a different racket. Other players make different changes. The professional Portuguese player Gonçalo Oliveira replaced the original grips of his rackets with something thinner because they had previously felt uncomfortable to hold."
+          },
+          {
+            "letter": "",
+            "content": "Racket customisation and modification have pushed the standards of the game to greater levels that few could have anticipated in the days of natural strings and heavy, wooden frames, and it’s exciting to see what further developments there will be in the future."
+          }
+        ],
+        "ranges": [
+          {
+            "type": "tfng",
+            "start": 1,
+            "end": 7,
+            "extra": {}
+          },
+          {
+            "type": "note",
+            "start": 8,
+            "end": 13,
+            "extra": {
+              "limit": "ONE WORD ONLY"
+            }
+          }
+        ],
+        "questions": [
+          {
+            "type": "tfng",
+            "text": "People had expected Andy Murray to become the world's top tennis player for at least five years before 2016."
+          },
+          {
+            "type": "tfng",
+            "text": "The change that Andy Murray made to his rackets attracted a lot of attention."
+          },
+          {
+            "type": "tfng",
+            "text": "Most of the world's top players take a professional racket stringer on tour with them."
+          },
+          {
+            "type": "tfng",
+            "text": "Mike and Bob Bryan use rackets that are light in comparison to the majority of rackets."
+          },
+          {
+            "type": "tfng",
+            "text": "Werner Fischer played with a spaghetti-strung racket that he designed himself."
+          },
+          {
+            "type": "tfng",
+            "text": "The weather can affect how professional players adjust the strings on their rackets."
+          },
+          {
+            "type": "tfng",
+            "text": "It was believed that the change Pete Sampras made to his rackets contributed to his strong serve."
+          },
+          {
+            "type": "note",
+            "before": "Mike and Bob Bryan made changes to the types of",
+            "after": "used on their racket frames."
+          },
+          {
+            "type": "note",
+            "before": "Players were not allowed to use the spaghetti-strung racket because of the amount of",
+            "after": "it created."
+          },
+          {
+            "type": "note",
+            "before": "Changes to rackets can be regarded as being as important as players' diets or the",
+            "after": "they do."
+          },
+          {
+            "type": "note",
+            "before": "All rackets used to have natural strings made from the",
+            "after": "of animals."
+          },
+          {
+            "type": "note",
+            "before": "Pete Sampras had metal",
+            "after": "put into the frames of his rackets."
+          },
+          {
+            "type": "note",
+            "before": "Gonçalo Oliveira changed the",
+            "after": "on his racket handles."
+          }
+        ]
+      },
+      "passage_two": {
+        "title": "How tennis rackets have changed",
+        "paragraphs": [
+          {
+            "letter": "",
+            "content": "In 2016, the British professional tennis player Andy Murray was ranked as the world’s number one. It was an incredible achievement by any standard – made even more remarkable by the fact that he did this during a period considered to be one of the strongest in the sport’s history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few. Yet five years previously, he had been regarded as a talented outsider who entered but never won the major tournaments."
+          },
+          {
+            "letter": "",
+            "content": "Of the changes that account for this transformation, one was visible and widely publicised: in 2011, Murray invited former number one player Ivan Lendl onto his coaching team – a valuable addition that had a visible impact on the player’s playing style. Another change was so subtle as to pass more or less unnoticed. Like many players, Murray has long preferred a racket that consists of two types of string: one for the mains (verticals) and another for the crosses (horizontals). While he continued to use natural string in the crosses, in 2012 he switched to a synthetic string for the mains. A small change, perhaps, but its importance should not be underestimated."
+          },
+          {
+            "letter": "",
+            "content": "The modification that Murray made is just one of a number of options available to players looking to tweak their rackets in order to improve their games. ‘Touring professionals have their rackets customised to their specific needs,’ says Colin Triplow, a UK-based professional racket stringer. ‘It’s a highly important part of performance maximisation.’ Consequently, the specific rackets used by the world’s elite are not actually readily available to the public; rather, each racket is individually made to suit the player who uses it. Take the US professional tennis players Mike and Bob Bryan, for example: ‘We’re very particular with our racket specifications,’ they say. ‘All our rackets are sent from our manufacturer to Tampa, Florida, where our frames go through a . . . thorough customisation process.’ They explain how they have adjusted not only racket length, but even experimented with different kinds of paint. The rackets they use now weigh more than the average model and also have a denser string pattern (i.e. more crosses and mains)."
+          },
+          {
+            "letter": "",
+            "content": "The primary reason for these modifications is simple: as the line between winning and losing becomes thinner and thinner, even these slight changes become more and more important. As a result, players and their teams are becoming increasingly creative with the modifications to their rackets as they look to maximise their competitive advantage."
+          },
+          {
+            "letter": "",
+            "content": "Racket modifications mainly date back to the 1970s, when the amateur German tennis player Werner Fischer started playing with the so-called spaghetti-strung racket. It created a string bed that generated so much topspin that it was quickly banned by the International Tennis Federation. However, within a decade or two, racket modification became a regularity. Today it is, in many ways, an aspect of the game that is equal in significance to nutrition or training."
+          },
+          {
+            "letter": "",
+            "content": "Modifications can be divided into two categories: those to the string bed and those to the racket frame. The former is far more common than the latter: the choice of the strings and the tension with which they are installed is something that nearly all professional players experiment with. They will continually change it depending on various factors including the court surface, climatic conditions, and game styles. Some will even change it depending on how they feel at the time."
+          },
+          {
+            "letter": "",
+            "content": "At one time, all tennis rackets were strung with natural gut made from the outer layer of sheep or cow intestines. This all changed in the early 1990s with the development of synthetic strings that were cheaper and more durable. They are made from three materials: nylon (relatively durable and affordable), Kevlar (too stiff to be used alone) or co-polyester (polyester combined with additives that enhance its performance). Even so, many professional players continue to use a ‘hybrid set-up’, where a combination of both synthetic and natural strings are used."
+          },
+          {
+            "letter": "",
+            "content": "Of the synthetics, co-polyester is by far the most widely used. It’s a perfect fit for the style of tennis now played, where players tend to battle it out from the back of the court rather than coming to the net. Studies indicate that the average spin from a co-polyester string is 25% greater than that from natural string or other synthetics. In a sense, the development of co-polyester strings has revolutionised the game."
+          },
+          {
+            "letter": "",
+            "content": "However, many players go beyond these basic adjustments to the strings and make changes to the racket frame itself. For example, much of the serving power of US professional player Pete Sampras was attributed to the addition of four to five lead weights onto his rackets, and today many professionals have the weight adjusted during the manufacturing process."
+          },
+          {
+            "letter": "",
+            "content": "Other changes to the frame involve the handle. Players have individual preferences for the shape of the handle and some will have the handle of one racket moulded onto the frame of a different racket. Other players make different changes. The professional Portuguese player Gonçalo Oliveira replaced the original grips of his rackets with something thinner because they had previously felt uncomfortable to hold."
+          },
+          {
+            "letter": "",
+            "content": "Racket customisation and modification have pushed the standards of the game to greater levels that few could have anticipated in the days of natural strings and heavy, wooden frames, and it’s exciting to see what further developments there will be in the future."
+          }
+        ],
+        "ranges": [
+          {
+            "type": "tfng",
+            "start": 14,
+            "end": 20,
+            "extra": {}
+          },
+          {
+            "type": "note",
+            "start": 21,
+            "end": 26,
+            "extra": {
+              "limit": "ONE WORD ONLY"
+            }
+          }
+        ],
+        "questions": [
+          {
+            "type": "tfng",
+            "text": "People had expected Andy Murray to become the world's top tennis player for at least five years before 2016."
+          },
+          {
+            "type": "tfng",
+            "text": "The change that Andy Murray made to his rackets attracted a lot of attention."
+          },
+          {
+            "type": "tfng",
+            "text": "Most of the world's top players take a professional racket stringer on tour with them."
+          },
+          {
+            "type": "tfng",
+            "text": "Mike and Bob Bryan use rackets that are light in comparison to the majority of rackets."
+          },
+          {
+            "type": "tfng",
+            "text": "Werner Fischer played with a spaghetti-strung racket that he designed himself."
+          },
+          {
+            "type": "tfng",
+            "text": "The weather can affect how professional players adjust the strings on their rackets."
+          },
+          {
+            "type": "tfng",
+            "text": "It was believed that the change Pete Sampras made to his rackets contributed to his strong serve."
+          },
+          {
+            "type": "note",
+            "before": "Mike and Bob Bryan made changes to the types of",
+            "after": "used on their racket frames."
+          },
+          {
+            "type": "note",
+            "before": "Players were not allowed to use the spaghetti-strung racket because of the amount of",
+            "after": "it created."
+          },
+          {
+            "type": "note",
+            "before": "Changes to rackets can be regarded as being as important as players' diets or the",
+            "after": "they do."
+          },
+          {
+            "type": "note",
+            "before": "All rackets used to have natural strings made from the",
+            "after": "of animals."
+          },
+          {
+            "type": "note",
+            "before": "Pete Sampras had metal",
+            "after": "put into the frames of his rackets."
+          },
+          {
+            "type": "note",
+            "before": "Gonçalo Oliveira changed the",
+            "after": "on his racket handles."
+          }
+        ]
+      },
+      "passage_three": {
+        "title": "To Catch A King",
+        "paragraphs": [
+          {
+            "letter": "",
+            "content": "Anna Keay reviews Charles Spencer’s book about the hunt for King Charles II during the English Civil War of the seventeenth century."
+          },
+          {
+            "letter": "",
+            "content": "Charles Spencer’s latest book, To Catch a King, tells us the story of the hunt for King Charles II in the six weeks after his resounding defeat at the Battle of Worcester in September 1651. And what a story it is. After his father was executed by the Parliamentarians in 1649, the young Charles II sacrificed one of the very principles his father had died for and did a deal with Scots, thereby accepting Presbyterianism* as the national religion in return for being crowned King of Scots. His arrival in Edinburgh prompted the English Parliamentary army to invade Scotland in a pre-emptive strike. This was followed by a Scottish invasion of England. The two sides finally faced one another at Worcester in the west of England in 1651. After being comprehensively defeated on the meadows outside the city by the Parliamentarian army, the 21-year-old king found himself the subject of a national manhunt, with a huge sum offered for his capture, through a series of heart-poundingly close escapes, to evade the Parliamentarians before seeking refuge in France. For the next nine years, the penniless and defeated Charles wandered around Europe with only a small group of loyal supporters."
+          },
+          {
+            "letter": "",
+            "content": "Years later, after his restoration as king, the 50-year-old Charles II requested a meeting with the writer and diarist Samuel Pepys. His intention when asking Pepys to commit his story to paper was to ensure that this most extraordinary episode was never forgotten. Over two three-hour sittings, the king related to him in great detail his personal recollections of the six weeks he had spent as a fugitive. As the king and secretary settled down (a scene that is surely a gift for a future scriptwriter), Charles commenced his story: ‘After the battle was so absolutely lost as to be beyond hope of recovery, I began to think of the best way of saving myself.’"
+          },
+          {
+            "letter": "",
+            "content": "One of the joys of Spencer’s book, a result not least of its use of Charles II’s own narrative as well as those of his supporters, is just how close the reader gets to the action. The day-by-day retelling of the fugitives’ doings provides delicious details: the cutting of the king’s long hair with agricultural shears, the use of walnut leaves to dye his pale skin, and the day Charles spent lying on a branch of the great oak tree in Boscobel Wood as the Parliamentary soldiers scoured the forest floor below. Spencer draws out both the humour – such as the preposterous refusal of Charles’s friend Henry Wilmot to adopt disguise on the grounds that it was beneath his dignity – and the emotional tension when the secret of the king’s presence was cautiously revealed to his supporters."
+          },
+          {
+            "letter": "",
+            "content": "Charles’s adventures after losing the Battle of Worcester hide the uncomfortable truth that whilst almost everyone in England had been appalled by the execution of his father, they had not welcomed the arrival of his son with the Scots army, but had instead firmly bolted their doors. This was partly because he rode at the head of what looked like a foreign invasion force and partly because, after almost a decade of civil war, people were desperate to avoid it beginning again. This makes it all the more interesting that Charles II himself loved the story so much ever after. As well as retelling it to anyone who would listen, causing eye-rolling among courtiers, he set in train a series of initiatives to memorialise it. There was to be a new order of chivalry, the Knights of the Royal Oak. A series of enormous oil paintings depicting the episode were produced, including a two-metre-wide canvas of Boscobel Wood and a set of six similarly enormous paintings of the king on the run. In 1660, Charles II commissioned the artist John Michael Wright to paint a flying squadron of cherubs* carrying an oak tree to the heavens on the ceiling of his bedchamber. It is hard to imagine many other kings marking the lowest point in their life so enthusiastically, or indeed pulling off such an escape in the first place."
+          },
+          {
+            "letter": "",
+            "content": "Charles Spencer is the perfect person to pass the story on to a new generation. His pacey, readable prose steers deftly clear of modern idioms and elegantly brings to life the details of the great tale. He has even-handed sympathy for both the fugitive king and the fierce republican regime that hunted him, and he succeeds in his desire to explore far more of the background of the story than previous books on the subject have done. Indeed, the opening third of the book is about how Charles II found himself at Worcester in the first place, which for some will be reason alone to read To Catch a King."
+          },
+          {
+            "letter": "",
+            "content": "The tantalizing question left, in the end, is that of what it all meant. Would Charles II have been a different king had these six weeks never happened? The days and nights spent in hiding must have affected him in some way. Did the need to assume disguises, to survive on wit and charm alone, to use trickery and subterfuge to escape from tight corners help form him? This is the one area where the book doesn’t quite hit the mark. Instead its depiction of Charles II in his final years as an ineffective, pleasure-loving monarch doesn’t do justice to the man (neither is it accurate), or to the complexity of his character. But this one niggle aside, To Catch a King is an excellent read, and those who come to it knowing little of the famous tale will find they have a treat in store."
+          },
+          {
+            "letter": "",
+            "content": "Of the synthetics, co-polyester is by far the most widely used. It’s a perfect fit for the style of tennis now played, where players tend to battle it out from the back of the court rather than coming to the net. Studies indicate that the average spin from a co-polyester string is 25% greater than that from natural string or other synthetics. In a sense, the development of co-polyester strings has revolutionised the game."
+          },
+          {
+            "letter": "",
+            "content": "However, many players go beyond these basic adjustments to the strings and make changes to the racket frame itself. For example, much of the serving power of US professional player Pete Sampras was attributed to the addition of four to five lead weights onto his rackets, and today many professionals have the weight adjusted during the manufacturing process."
+          },
+          {
+            "letter": "",
+            "content": "Other changes to the frame involve the handle. Players have individual preferences for the shape of the handle and some will have the handle of one racket moulded onto the frame of a different racket. Other players make different changes. The professional Portuguese player Gonçalo Oliveira replaced the original grips of his rackets with something thinner because they had previously felt uncomfortable to hold."
+          },
+          {
+            "letter": "",
+            "content": "Racket customisation and modification have pushed the standards of the game to greater levels that few could have anticipated in the days of natural strings and heavy, wooden frames, and it’s exciting to see what further developments there will be in the future."
+          }
+        ],
+        "ranges": [
+          {
+            "type": "optioned_summary",
+            "start": 27,
+            "end": 31,
+            "extra": {
+              "title": "The story behind the hunt for Charles II",
+              "limit": "NO MORE THAN TWO WORDS",
+              "options": [
+                "military innovation",
+                "large reward",
+                "widespread conspiracy",
+                "relative safety",
+                "new government",
+                "decisive victory",
+                "political debate",
+                "strategic alliance",
+                "popular solution",
+                "religious conviction"
+              ]
+            }
+          },
+          {
+            "type": "ynng",
+            "start": 32,
+            "end": 35,
+            "extra": {}
+          },
+          {
+            "type": "mcq",
+            "start": 36,
+            "end": 40,
+            "extra": {}
+          }
+        ],
+        "questions": [
+          {
+            "type": "summary",
+            "before": "Charles II’s father was executed by the Parliamentarian forces in 1649. Charles II then formed a",
+            "after": "with the Scots, and in order to become King of Scots, he abandoned an important"
+          },
+          {
+            "type": "summary",
+            "before": " ",
+            "after": "that was held by his father and had contributed to his father’s death. The opposing sides then met outside Worcester in 1651."
+          },
+          {
+            "type": "summary",
+            "before": "The battle led to a",
+            "after": "for the Parliamentarians and Charles had to flee for his life."
+          },
+          {
+            "type": "summary",
+            "before": "A",
+            "after": "was offered for Charles’s capture, but after six weeks spent in hiding, he eventually managed to reach the"
+          },
+          {
+            "type": "summary",
+            "before": " ",
+            "after": "of continental Europe."
+          },
+          {
+            "type": "ynng",
+            "text": "Charles chose Pepys for the task because he considered him to be trustworthy."
+          },
+          {
+            "type": "ynng",
+            "text": "Charles’s personal recollection of the escape lacked sufficient detail."
+          },
+          {
+            "type": "ynng",
+            "text": "Charles indicated to Pepys that he had planned his escape before the battle."
+          },
+          {
+            "type": "ynng",
+            "text": "The inclusion of Charles’s account is a positive aspect of the book."
+          },
+          {
+            "type": "mcq",
+            "text": "What is the reviewer’s main purpose in the first paragraph?",
+            "a": "to describe what happened during the Battle of Worcester",
+            "b": "to give an account of the circumstances leading to Charles II’s escape",
+            "c": "to provide details of the Parliamentarians’ political views",
+            "d": "to compare Charles II’s beliefs with those of his father"
+          },
+          {
+            "type": "mcq",
+            "text": "Why does the reviewer include examples of the fugitives’ behaviour in the third paragraph?",
+            "a": "to explain how close Charles II came to losing his life",
+            "b": "to suggest that Charles II’s supporters were badly prepared",
+            "c": "to illustrate how the events of the six weeks are brought to life",
+            "d": "to argue that certain aspects are not as well known as they should be"
+          },
+          {
+            "type": "mcq",
+            "text": "What point does the reviewer make about Charles II in the fourth paragraph?",
+            "a": "He chose to celebrate what was essentially a defeat.",
+            "b": "He misunderstood the motives of his opponents.",
+            "c": "He aimed to restore people’s faith in the monarchy.",
+            "d": "He was driven by a desire to be popular."
+          },
+          {
+            "type": "mcq",
+            "text": "What does the reviewer say about Charles Spencer in the fifth paragraph?",
+            "a": "His decision to write the book comes as a surprise.",
+            "b": "He takes an unbiased approach to the subject matter.",
+            "c": "His descriptions of events would be better if they included more detail.",
+            "d": "He chooses language that is suitable for a twenty-first-century audience."
+          },
+          {
+            "type": "mcq",
+            "text": "When the reviewer says the book ‘doesn’t quite hit the mark’, she is making the point that",
+            "a": "it overlooks the impact of events on ordinary people.",
+            "b": "it lacks an analysis of prevalent views on monarchy.",
+            "c": "it omits any references to the deceit practised by Charles II during his time in hiding.",
+            "d": "it fails to address whether Charles II’s experiences had a lasting influence on him."
+          }
+        ]
+      }
+    },
+    {
+      "id": 333,
+      "passage_one": {
+        "title": "How tennis rackets have changed",
+        "paragraphs": [
+          {
+            "letter": "",
+            "content": "In 2016, the British professional tennis player Andy Murray was ranked as the world’s number one. It was an incredible achievement by any standard – made even more remarkable by the fact that he did this during a period considered to be one of the strongest in the sport’s history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic, to name just a few. Yet five years previously, he had been regarded as a talented outsider who entered but never won the major tournaments."
+          },
+          {
+            "letter": "",
+            "content": "Of the changes that account for this transformation, one was visible and widely publicised: in 2011, Murray invited former number one player Ivan Lendl onto his coaching team – a valuable addition that had a visible impact on the player’s playing style. Another change was so subtle as to pass more or less unnoticed. Like many players, Murray has long preferred a racket that consists of two types of string: one for the mains (verticals) and another for the crosses (horizontals). While he continued to use natural string in the crosses, in 2012 he switched to a synthetic string for the mains. A small change, perhaps, but its importance should not be underestimated."
+          },
+          {
+            "letter": "",
+            "content": "The modification that Murray made is just one of a number of options available to players looking to tweak their rackets in order to improve their games. ‘Touring professionals have their rackets customised to their specific needs,’ says Colin Triplow, a UK-based professional racket stringer. ‘It’s a highly important part of performance maximisation.’ Consequently, the specific rackets used by the world’s elite are not actually readily available to the public; rather, each racket is individually made to suit the player who uses it. Take the US professional tennis players Mike and Bob Bryan, for example: ‘We’re very particular with our racket specifications,’ they say. ‘All our rackets are sent from our manufacturer to Tampa, Florida, where our frames go through a . . . thorough customisation process.’ They explain how they have adjusted not only racket length, but even experimented with different kinds of paint. The rackets they use now weigh more than the average model and also have a denser string pattern (i.e. more crosses and mains)."
+          },
+          {
+            "letter": "",
+            "content": "The primary reason for these modifications is simple: as the line between winning and losing becomes thinner and thinner, even these slight changes become more and more important. As a result, players and their teams are becoming increasingly creative with the modifications to their rackets as they look to maximise their competitive advantage."
+          },
+          {
+            "letter": "",
+            "content": "Racket modifications mainly date back to the 1970s, when the amateur German tennis player Werner Fischer started playing with the so-called spaghetti-strung racket. It created a string bed that generated so much topspin that it was quickly banned by the International Tennis Federation. However, within a decade or two, racket modification became a regularity. Today it is, in many ways, an aspect of the game that is equal in significance to nutrition or training."
+          },
+          {
+            "letter": "",
+            "content": "Modifications can be divided into two categories: those to the string bed and those to the racket frame. The former is far more common than the latter: the choice of the strings and the tension with which they are installed is something that nearly all professional players experiment with. They will continually change it depending on various factors including the court surface, climatic conditions, and game styles. Some will even change it depending on how they feel at the time."
+          },
+          {
+            "letter": "",
+            "content": "At one time, all tennis rackets were strung with natural gut made from the outer layer of sheep or cow intestines. This all changed in the early 1990s with the development of synthetic strings that were cheaper and more durable. They are made from three materials: nylon (relatively durable and affordable), Kevlar (too stiff to be used alone) or co-polyester (polyester combined with additives that enhance its performance). Even so, many professional players continue to use a ‘hybrid set-up’, where a combination of both synthetic and natural strings are used."
+          },
+          {
+            "letter": "",
+            "content": "Of the synthetics, co-polyester is by far the most widely used. It’s a perfect fit for the style of tennis now played, where players tend to battle it out from the back of the court rather than coming to the net. Studies indicate that the average spin from a co-polyester string is 25% greater than that from natural string or other synthetics. In a sense, the development of co-polyester strings has revolutionised the game."
+          },
+          {
+            "letter": "",
+            "content": "However, many players go beyond these basic adjustments to the strings and make changes to the racket frame itself. For example, much of the serving power of US professional player Pete Sampras was attributed to the addition of four to five lead weights onto his rackets, and today many professionals have the weight adjusted during the manufacturing process."
+          },
+          {
+            "letter": "",
+            "content": "Other changes to the frame involve the handle. Players have individual preferences for the shape of the handle and some will have the handle of one racket moulded onto the frame of a different racket. Other players make different changes. The professional Portuguese player Gonçalo Oliveira replaced the original grips of his rackets with something thinner because they had previously felt uncomfortable to hold."
+          },
+          {
+            "letter": "",
+            "content": "Racket customisation and modification have pushed the standards of the game to greater levels that few could have anticipated in the days of natural strings and heavy, wooden frames, and it’s exciting to see what further developments there will be in the future."
+          }
+        ],
+        "ranges": [
+          {
+            "type": "tfng",
+            "start": 1,
+            "end": 7,
+            "extra": {}
+          },
+          {
+            "type": "note",
+            "start": 8,
+            "end": 13,
+            "extra": {
+              "limit": "ONE WORD ONLY"
+            }
+          }
+        ],
+        "questions": [
+          {
+            "type": "tfng",
+            "text": "People had expected Andy Murray to become the world's top tennis player for at least five years before 2016."
+          },
+          {
+            "type": "tfng",
+            "text": "The change that Andy Murray made to his rackets attracted a lot of attention."
+          },
+          {
+            "type": "tfng",
+            "text": "Most of the world's top players take a professional racket stringer on tour with them."
+          },
+          {
+            "type": "tfng",
+            "text": "Mike and Bob Bryan use rackets that are light in comparison to the majority of rackets."
+          },
+          {
+            "type": "tfng",
+            "text": "Werner Fischer played with a spaghetti-strung racket that he designed himself."
+          },
+          {
+            "type": "tfng",
+            "text": "The weather can affect how professional players adjust the strings on their rackets."
+          },
+          {
+            "type": "tfng",
+            "text": "It was believed that the change Pete Sampras made to his rackets contributed to his strong serve."
+          },
+          {
+            "type": "note",
+            "before": "Mike and Bob Bryan made changes to the types of",
+            "after": "used on their racket frames."
+          },
+          {
+            "type": "note",
+            "before": "Players were not allowed to use the spaghetti-strung racket because of the amount of",
+            "after": "it created."
+          },
+          {
+            "type": "note",
+            "before": "Changes to rackets can be regarded as being as important as players' diets or the",
+            "after": "they do."
+          },
+          {
+            "type": "note",
+            "before": "All rackets used to have natural strings made from the",
+            "after": "of animals."
+          },
+          {
+            "type": "note",
+            "before": "Pete Sampras had metal",
+            "after": "put into the frames of his rackets."
+          },
+          {
+            "type": "note",
+            "before": "Gonçalo Oliveira changed the",
+            "after": "on his racket handles."
+          }
+        ]
+      },
+      "passage_two": {
+        "title": "I contain multitudes",
+        "paragraphs": [
+          {
+            "letter": "",
+            "content": "Wendy Moore reviews Ed Yong’s book about microbes"
+          },
+          {
+            "letter": "",
+            "content": "Microbes, most of them bacteria, have populated this planet since long before animal life developed and they will outlive us. Invisible to the naked eye, they are ubiquitous. They inhabit the soil, air, rocks and water and are present within every form of life, from seaweed and coral to dogs and humans. And, as Yong explains in his utterly absorbing and hugely important book we mess with them at our peril."
+          },
+          {
+            "letter": "",
+            "content": "Every species has its own colony of microbes, called a ‘microbiome’, and these microbes vary not only between species but also between individuals and within different parts of each individual. What is amazing is that while the number of human cells in the average person is about 30 trillion, the number of microbial ones is higher – about 39 trillion. At best, Yong informs us, we are only 50 per cent human. Indeed, some scientists even suggest we should think of each species and its microbes as a single unit, dubbed a ‘holobiont’."
+          },
+          {
+            "letter": "",
+            "content": "In each human there are microbes that live only in the stomach, the mouth or the armpit and by and large they do so peacefully. So ‘bad’ microbes are just microbes out of context. Microbes that sit contentedly in the human gut (where there are more microbes than there are stars in the galaxy) can become deadly if they find their way into the bloodstream. These communities are constantly changing too. The right hand shares just one sixth of its microbes with the left hand. And, of course, we are surrounded by microbes. Every time we eat, we swallow a million microbes in each gram of food; we are continually swapping microbes with other humans, pets and the world at large."
+          },
+          {
+            "letter": "",
+            "content": "It’s a fascinating topic and Yong, a young British science journalist, is an extraordinarily adept guide. Writing with lightness and panache, he has a knack of explaining complex science in terms that are both easy to understand and totally enthralling. Yong is on a mission. Leading us gently by the hand, he takes us into the world of microbes – a bizarre, alien planet – in a bid to persuade us to love them as much as he does. By the end, we do."
+          },
+          {
+            "letter": "",
+            "content": "For most of human history we had no idea that microbes existed. The first man to see these extraordinarily potent creatures was a Dutch lens-maker called Antony van Leeuwenhoek in the 1670s. Using microscopes of his own design that could magnify up to 270 times, he examined a drop of water from a nearby lake and found it teeming with tiny creatures he called ‘animalcules’. It wasn’t until nearly two hundred years later that the research of French biologist Louis Pasteur indicated that some microbes caused disease. It was Pasteur’s ‘germ theory’ that gave bacteria the poor image that endures today."
+          },
+          {
+            "letter": "",
+            "content": "Yong’s book is in many ways a plea for microbial tolerance, pointing out that while fewer than one hundred species of bacteria bring disease, many thousands more play a vital role in maintaining our health. The book also acknowledges that our attitude towards bacteria is not a simple one. We tend to see the dangers posed by bacteria, yet at the same time we are sold yoghurts and drinks that supposedly nurture ‘friendly’ bacteria. In reality, says Yong, bacteria should not be viewed as either friends or foes, villains or heroes. Instead we should realise we have a symbiotic relationship, that can be mutually beneficial or mutually destructive."
+          },
+          {
+            "letter": "",
+            "content": "What then do these millions of organisms do? The answer is pretty much everything. New research is now unravelling the ways in which bacteria aid digestion, regulate our immune systems, eliminate toxins, produce vitamins, affect our behaviour and even combat obesity. ‘They actually help us become who we are,’ says Yong. But we are facing a growing problem. Our obsession with hygiene, our overuse of antibiotics and our unhealthy, low-fibre diets are disrupting the bacterial balance and may be responsible for soaring rates of allergies and immune problems, such as inflammatory bowel disease (IBD)."
+          },
+          {
+            "letter": "",
+            "content": "The most recent research actually turns accepted norms upside down. For example, there are studies indicating that the excessive use of household detergents and antibacterial products actually destroys the microbes that normally keep the more dangerous germs at bay. Other studies show that keeping a dog as a pet gives children early exposure to a diverse range of bacteria, which may help protect them against allergies later."
+          },
+          {
+            "letter": "",
+            "content": "The readers of Yong’s book must be prepared for a decidedly unglamorous world. Among the less appealing case studies is one about a fungus that is wiping out entire populations of frogs and that can be halted by a rare microbial bacterium. Another is about squid that carry luminescent bacteria that protect them against predators. However, if you can overcome your distaste for some of the investigations, the reasons for Yong’s enthusiasm become clear. The microbial world is a place of wonder. Already, in an attempt to stop mosquitoes spreading dengue fever – a disease that infects 400 million people a year – mosquitoes are being loaded with a bacterium to block the disease. In the future, our ability to manipulate microbes means we could construct buildings with useful microbes built into their walls to fight off infections. Just imagine a neonatal hospital ward coated in a specially mixed cocktail of microbes so that babies get the best start in life."
+          }
+        ],
+        "ranges": [
+          {
+            "type": "mcq",
+            "start": 14,
+            "end": 16,
+            "extra": {}
+          },
+          {
+            "type": "optioned_summary",
+            "start": 17,
+            "end": 20,
+            "extra": {
+              "title": "We should be more tolerant of microbes",
+              "options": ["solution", "partnership", "destruction", "exaggeration", "cleanliness", "regulations", "illness", "nutrition"]
+            }
+          },
+          {
+            "type": "ynng",
+            "start": 21,
+            "end": 26,
+            "extra": {}
+          }
+        ],
+        "questions": [
+          {
+            "type": "mcq",
+            "text": "What point does the writer make about microbes in the first paragraph?",
+            "a": "They adapt quickly to their environment.",
+            "b": "The risk they pose has been exaggerated.",
+            "c": "They are more plentiful in animal life than plant life.",
+            "d": "They will continue to exist for longer than the human race."
+          },
+          {
+            "type": "mcq",
+            "text": "In the second paragraph, the writer is impressed by the fact that",
+            "a": "each species tends to have vastly different microbes.",
+            "b": "some parts of the body contain relatively few microbes.",
+            "c": "the average individual has more microbial cells than human ones.",
+            "d": "scientists have limited understanding of how microbial cells behave."
+          },
+          {
+            "type": "mcq",
+            "text": "What is the writer doing in the fifth paragraph?",
+            "a": "explaining how a discovery was made",
+            "b": "comparing scientists’ theories about microbes",
+            "c": "describing confusion among scientists",
+            "d": "giving details of how microbes cause disease"
+          },
+          {
+            "type": "optioned_summary",
+            "before": "Yong’s book argues that we should be more tolerant of microbes. Many have a beneficial effect, and only a relatively small number lead to",
+            "after": "."
+          },
+          {
+            "type": "optioned_summary",
+            "before": "And although it is misleading to think of microbes as ‘friendly’, we should also stop thinking of them as the enemy. In fact, we should accept that our relationship with microbes is one based on",
+            "after": ".\n\n"
+          },
+          {
+            "type": "optioned_summary",
+            "before": "New research shows that microbes have numerous benefits for humans. Amongst other things, they aid digestion, remove poisons, produce vitamins and may even help reduce obesity. However, there is a growing problem. Our poor",
+            "after": ", our overuse of antibiotics, and our excessive focus on"
+          },
+          {
+            "type": "optioned_summary",
+            "before": " ",
+            "after": "are upsetting the bacterial balance and may be contributing to the huge increase in allergies and immune system problems."
+          },
+          {
+            "type": "ynng",
+            "text": "People had expected Andy Murray to become the world's top tennis player for at least five years before 2016."
+          },
+          {
+            "type": "ynng",
+            "text": "The change that Andy Murray made to his rackets attracted a lot of attention."
+          },
+          {
+            "type": "ynng",
+            "text": "Most of the world's top players take a professional racket stringer on tour with them."
+          },
+          {
+            "type": "ynng",
+            "text": "Mike and Bob Bryan use rackets that are light in comparison to the majority of rackets."
+          },
+          {
+            "type": "ynng",
+            "text": "Werner Fischer played with a spaghetti-strung racket that he designed himself."
+          },
+          {
+            "type": "ynng",
+            "text": "The weather can affect how professional players adjust the strings on their rackets."
+          }
+        ]
+      },
+      "passage_three": {
+        "title": "Art Based Learning for Engineers",
+        "paragraphs": [
+          {
+            "letter": "",
+            "content": "An assessment of how effective an art-based program was in improving the communication skills of engineers."
+          },
+          {
+            "letter": "",
+            "content": "The CONNECT Program in the Engineering School of The Cooper Union for the Advancement of Science and Art has served as a laboratory for testing the effectiveness of art-based learning for technical graduates."
+          },
+          {
+            "letter": "",
+            "content": "Our underlying concept with CONNECT is that most communication breakdowns involving engineers happen because they know every aspect of their subject matter and assume that others do too. Engineers spend a great deal of time ensuring their work is accurate, and their solutions to engineering problems are workable, meet official requirements, are environmentally sound, and so on. They are persuaded by sound content. Others may not be."
+          },
+          {
+            "letter": "",
+            "content": "Communicating with an audience is essentially a social skill with a behavioral basis. A fact that becomes all too apparent when one's audience has a divergent set of assumptions. Failing to understand your audience opens up an 'audience gap'. To give engineering graduates the skills to close this gap. CONNECT turned to the theatre. Performing artists specialize in the effective communication of any content- good, bad, or indifferent-through vocal, physical, and socially appropriate behaviors keyed to a particular audience. CONNECT applied stage movement analysis to interaction with clients, meetings with colleagues, and job interviews. It also made use of vocal and physical exercises and directing techniques, to equip technical personnel for the everyday communication challenges they face, as well as for formal talks."
+          },
+          {
+            "letter": "",
+            "content": "Attending workshops based on the CONNECT model resulted in observably improved behaviors. Our data demonstrate that, while not every engineer is likely to become a great communicator, almost all are capable of becoming better communicators. In a survey of corporate recruiters, potential employees who had taken one or more CONNECT workshops were rated higher overall in areas such as confidence and maturity than those who had not participated in CONNECT. Those who had taken a range of workshops, including one in advanced non-verbal behavior, were rated even higher. These results were achieved after mixed early assessment results led us to significantly refine our methods."
+          },
+          {
+            "letter": "",
+            "content": "Just as important to the improvements we saw after the first year was an adjustment to how we approached the students themselves. We needed ti practice what we reached, and that meant understanding our own audience of young engineers. We needed to behave in ways that would get through to them. Too often in early workshops, our performer-facilitators assumed that a technical audience would respond to theatrical training material in the same positive way that performers did. However, we came to realize that technical audiences need to be approached differently if arts-based training is to achieve its full potential."
+          },
+          {
+            "letter": "",
+            "content": "Adjusting our approach to achieve this was key to the improvement in results. Changing how we behaved toward our audience of young engineers required real sensitivity to what was happening in the workshops, and to how our facilitators related to the students. What we learned during this process can be distilled into 'rules' for maximizing the effectiveness of performing-arts -based training in a technical field."
+          },
+          {
+            "letter": "",
+            "content": "There are at least three approaches possible for facilitating a workshop, and the final' rule' is to incorporate these in the most appropriate way. The 'prescriptive' approach tells trainees what is necessary, the 'experiential' approach lets them personally experience what happens when a new element is added to a situation, and the 'demonstrative' approach requires them to observe certain ways of doing things. The prescriptive approach, although the engineers tended to expect it, was by far the least effective, while the experiential approach met resistance because the purpose of the exercise was not always immediately obvious. The demonstrative approach, on the other hand, mirrors the way technical objects are accomplished, which is to solve problems through testing and observation. The observation of effective and ineffective communication behaviors in others proved to be a good way of demonstrating the options available to everyone."
+          },
+          {
+            "letter": "",
+            "content": "These 'rules' are, of course, only a starting point. We have learned to apply them both rigorously and with flexibility. At the Engineering School of The Cooper Union, customization menat establishing a mini-conservatory. We have learned that you can't close someone else's audiencegap without looking at things from their perspective. In another setting, playing to the technical audience might require a completely different sort of customization and a subtly differen set of training behaviors. What CONNECT has shown is that knowing one's audience - and knowing it specifically rather than generally- is fundamental."
+          }
+        ],
+        "ranges": [
+          {
+            "type": "optioned_summary",
+            "start": 27,
+            "end": 32,
+            "extra": {
+              "title": "The CONNECT Workshop",
+              "options": [
+                "presentations",
+                "details",
+                "efficiencies",
+                "regulations",
+                "interruptions",
+                "expectations",
+                "failures",
+                "actions",
+                "tools"
+              ]
+            }
+          },
+          {
+            "type": "ynng",
+            "start": 33,
+            "end": 36,
+            "extra": {}
+          },
+          {
+            "type": "mcq",
+            "start": 37,
+            "end": 40,
+            "extra": {}
+          }
+        ],
+        "questions": [
+          {
+            "type": "optioned_summary",
+            "before": "The concept behind the CONNECT program is that the",
+            "after": "in communication experienced by engineers, are due to their tendency to concentrate on technical"
+          },
+          {
+            "type": "optioned_summary",
+            "before": "",
+            "after": "rather than adapt their approach to meet the"
+          },
+          {
+            "type": "optioned_summary",
+            "before": "",
+            "after": "of their audience.\n\n"
+          },
+          {
+            "type": "optioned_summary",
+            "before": "This is mainly because engineers are used to focusing on the accuracy of their work and ensuring that it complies with",
+            "after": "\n\n"
+          },
+          {
+            "type": "optioned_summary",
+            "before": "Thus, the program aimed to provide technical graduates with the",
+            "after": "they needed to bridge the resulting communication gap.\n\n"
+          },
+          {
+            "type": "optioned_summary",
+            "before": "Having developed an awareness of audience, the engineers would then be in a better position to give effective",
+            "after": "and communicate more appropriately in everyday situations.\n"
+          },
+          {
+            "type": "ynng",
+            "text": "The study carried out by CONNECT indicates that any technical graduate has the ability to become an expert communicator."
+          },
+          {
+            "type": "ynng",
+            "text": "Employers said that they were particularly keen to hire technical graduates who had attended sessions in time management."
+          },
+          {
+            "type": "ynng",
+            "text": "Assessment results from the early workshops led to changes being made to the delivery of the CONNECT program."
+          },
+          {
+            "type": "ynng",
+            "text": "It became apparent that some of the CONNECT participants were too young to appreciate the purpose of the workshops."
+          },
+          {
+            "type": "mcq",
+            "text": "What is the writer doing in the fifth paragraph?",
+            "a": "advising trainers on how they should incorporate the rules into workshops.",
+            "b": "comparing how the young engineers reacted to the content of the workshops.",
+            "c": "explaining the context in which the rules for effective training were arrived at.",
+            "d": "describing how trainers assessed the performance of workshop participants."
+          },
+          {
+            "type": "mcq",
+            "text": "In the seventh paragraph, what does the writer say about activities such as ’passing a ball of energy’?",
+            "a": "The timing had to be adapted to make them suitable for the engineers.",
+            "b": "The point of them had to be explained to the engineers numerous times.",
+            "c": "The engineers were initially unconvinced of their value.",
+            "d": "The engineers misunderstood how they should be performed."
+          },
+          {
+            "type": "mcq",
+            "text": "What does the writer attribute the success of the demonstrative approach to?",
+            "a": "It complemented the way the technical graduates usually worked.",
+            "b": "It was a highly innovative method of working.",
+            "c": "It combined well with the two other approaches.",
+            "d": "It met the participants' expectations about a workshop situation."
+          },
+          {
+            "type": "mcq",
+            "text": "What is the writer's main point in the final paragraph?",
+            "a": "The differences between the facilitators and the trainees remained immense.",
+            "b": "The facilitators had to put into practice what they were attempting to teach.",
+            "c": "The program that has been developed is suitable for any technical audience.",
+            "d": "The facilitators on the program acknowledged they had learnt very little."
+          },
+          {
+            "type": "mcq",
+            "text": "When the reviewer says the book ‘doesn’t quite hit the mark’, she is making the point that",
+            "a": "it overlooks the impact of events on ordinary people.",
+            "b": "it lacks an analysis of prevalent views on monarchy.",
+            "c": "it omits any references to the deceit practised by Charles II during his time in hiding.",
+            "d": "it fails to address whether Charles II’s experiences had a lasting influence on him."
+          }
+        ]
+      }
+    }
+  ]
+}
